@@ -4,14 +4,14 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sql" approved="true" type="OdpsQL" />
-      <mapping ext="ddl" type="OdpsQL" />
-      <mapping ext="odpsql" type="OdpsQL" />
-      <mapping ext="q" type="OdpsQL" />
     </extensionMap>
   </component>
 </application>

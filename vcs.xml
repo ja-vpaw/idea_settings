@@ -22,6 +22,10 @@
           <option name="url" value="git@git.crptech.ru:eaec/ismpt/emission-processor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.crptech.ru:eaec/ismpt/document-partitioner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ja\Documents\GIT" />
