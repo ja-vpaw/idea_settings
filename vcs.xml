@@ -51,16 +51,16 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.ittds.tech:ttkr/icom.git" />
+          <option name="url" value="git@git.crptech.ru:dev-java/crpt-facade.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.crptech.ru:imark/be/icom.git" />
+          <option name="url" value="git@git.crptech.ru:eaec/ismpt/crpt-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ja\Documents\GIT" />
+    <option name="cloneParentDir" value="D:\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
