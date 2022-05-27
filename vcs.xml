@@ -58,6 +58,10 @@
           <option name="url" value="git@git.crptech.ru:imark/be/icom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git.crptech.ru:5005/eaec/ismpt/uz-receipt-router" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ja\Documents\GIT" />
