@@ -62,9 +62,13 @@
           <option name="url" value="git.crptech.ru:5005/eaec/ismpt/uz-receipt-router" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ittds.tech:ttkr/document-parser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\ja\Documents\GIT_GKKR" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
