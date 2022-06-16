@@ -1,5 +1,10 @@
 <application>
   <component name="FeatureSuggesterSettings">
+    <option name="suggestionLastShownTime">
+      <map>
+        <entry key="Completion" value="1655361849618" />
+      </map>
+    </option>
     <option name="workingDays">
       <list>
         <option value="1652163864811" />
