@@ -16,6 +16,8 @@
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="application.yaml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="application.yml" approved="true" type="spring-boot-properties-yaml" />
     </extensionMap>
   </component>
 </application>
