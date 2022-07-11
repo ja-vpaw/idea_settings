@@ -122,6 +122,10 @@
           <option name="url" value="git@gitlab.ittds.tech:ttkr/receipt-router.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.crptech.ru:eaec/ismpt/uz-receipt-router.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
