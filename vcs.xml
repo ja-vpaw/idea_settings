@@ -150,9 +150,13 @@
           <option name="url" value="git@git.crptech.ru:eaec/ismpt/crossborder-orchestrator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.crptech.ru:eaec/ismpt/crpt-facade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\CRPT" />
+    <option name="cloneParentDir" value="D:\IdeaProjects\GIT" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
