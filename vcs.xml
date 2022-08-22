@@ -166,6 +166,10 @@
           <option name="url" value="git@gitlab.ittds.tech:ttkr/crpt-facade.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ittds.tech:ttkr/workspace.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\GIT_GKKR" />
