@@ -198,6 +198,10 @@
           <option name="url" value="git@gitlab.ittds.tech:mt/rmt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ittds.tech:ttkr/services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\IdeaProjects\GIT_GKKR" />
