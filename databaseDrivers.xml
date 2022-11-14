@@ -1,3 +1,12 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="phoenix.thick">
+      <url-template name="default" template="jdbc:phoenix:!(thin:)&lt;\,,{host::localhost}&gt;[:{port}[:{node:identifier/[^\:]*}[:{principal:identifier/[^\:]*}[:{keytab:path}]]]]" disable="true" />
+      <url-template name="default" template="jdbc:phoenix:{host}[:{port}]" />
+      <artifact />
+      <library>
+        <url>file://D:/YandexDisk_JA/CODEINSIDE/phoenix-client-4.14.2-HBase-1.4.jar</url>
+      </library>
+    </driver>
+  </component>
 </application>
